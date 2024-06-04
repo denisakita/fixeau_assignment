@@ -1,0 +1,6 @@
+.idea/
+*.pdf
+venv/
+env/
+db.sqlite3
+.coverage
